@@ -6,7 +6,17 @@
 <img src="Images/1.png" width="700">
 
 В GitHub создан форк репозитория https://github.com/Kurtyanik/LR6. В git создана локальная копия удалённого репозитория.
-![](Images/2.png)
+
+<img src="Images/2.png" width="700">
+
 В удалённом репозитории создан новый файл.
-![](Images/3.png)
-С помошью команды 'git pull'
+
+<img src="Images/1.2.png" width="700">
+
+С помощью команды `git pull` изменения в удалённом репозитории загружены в локальный репозиторий.
+
+<img src="Images/3.png" width="700">
+
+С помощью команды `git log` получены последние изменения репозитория.
+
+<img src="Images/4.png" width="700">
